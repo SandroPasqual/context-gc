@@ -1,6 +1,6 @@
 {
   "name": "pi-context-gc",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Incremental, narrative-preserving context garbage collection for Pi. Trims duplicate and invalidated tool output before the first LLM call of each run, while never touching user/assistant narrative or the recent turns of a turn.",
   "keywords": [
     "pi",
