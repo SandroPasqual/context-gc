@@ -17,6 +17,7 @@
   "types": "src/context-gc.ts",
   "files": [
     "src",
+    "docs",
     "README.md",
     "LICENSE"
   ],
